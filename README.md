@@ -22,8 +22,7 @@ This project implements a real-time face detection system using OpenCV and machi
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TilakSanghvi/Real_Time_Face_Detection.git
-    ```
+    git clone https://github.com/rajiitrpr/Face-Detection
 2. Navigate to the project directory:
     ```bash
     cd Real_Time_Face_Detection
@@ -52,4 +51,4 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any inquiries, please contact Tilak Sanghvi at [tilakcsanghvi@gmail.com](mailto:tilakcsanghvi@gmail.com).
+For any inquiries, please contact Tilak Sanghvi at [rsureka13@gmail.com](mailto:rsureka13@gmail.com).
